@@ -2334,6 +2334,21 @@ textarea{
 	letter-spacing:1px;
 }
 
+.footer .call a{
+  font-family: 'TisaPro-Ita';
+	text-align:center;
+	width:100%;
+	position:relative;
+	color:#fff;
+	font-size:16px;
+	letter-spacing:1px;
+}
+
+.footer .call a:hover{
+	color:#6b6969;
+	transition: .5s;
+}
+
 
 .footer-down{
 	position: relative;
